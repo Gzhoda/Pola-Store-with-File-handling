@@ -1,0 +1,4 @@
+ Customer           Large       Meduim       Small
+                
+mahmoud           7           0           1
+Total Cost      675
